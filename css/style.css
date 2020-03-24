@@ -96,9 +96,9 @@ body:after {
   box-shadow: none !important;
 }
 .btn.btn-primary {
-  background: #163361;
+  background: #385077;
   border-color: #163361;
-  color: #fff;
+  color: rgb(245, 171, 51);
 }
 .btn.btn-primary:hover {
   background: #000;
